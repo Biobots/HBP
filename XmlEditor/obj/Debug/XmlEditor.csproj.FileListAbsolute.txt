@@ -1,0 +1,12 @@
+C:\Users\admin\Documents\Final\XML\XmlEditor\bin\Debug\XmlEditor.exe
+C:\Users\admin\Documents\Final\XML\XmlEditor\bin\Debug\XmlEditor.pdb
+C:\Users\admin\Documents\Final\XML\XmlEditor\obj\Debug\XmlEditor.csprojResolveAssemblyReference.cache
+C:\Users\admin\Documents\Final\XML\XmlEditor\obj\Debug\XmlEditor.Properties.Resources.resources
+C:\Users\admin\Documents\Final\XML\XmlEditor\obj\Debug\XmlEditor.csproj.GenerateResource.Cache
+C:\Users\admin\Documents\Final\XML\XmlEditor\obj\Debug\XmlEditor.exe
+C:\Users\admin\Documents\Final\XML\XmlEditor\obj\Debug\XmlEditor.pdb
+C:\Users\admin\Documents\Final\XML\XmlEditor\obj\Debug\XmlEditor.Form1.resources
+C:\Users\admin\Documents\Final\XML\XmlEditor\bin\Debug\XmlEditor.exe.config
+C:\Users\zhangbingzhe\Desktop\160161-3D Body Puzzle Platform-多媒体\Final\XML\XmlEditor\bin\Debug\XmlEditor.exe.config
+C:\Users\zhangbingzhe\Desktop\160161-3D Body Puzzle Platform-多媒体\Final\XML\XmlEditor\obj\Debug\XmlEditor.exe
+C:\Users\zhangbingzhe\Desktop\160161-3D Body Puzzle Platform-多媒体\Final\XML\XmlEditor\obj\Debug\XmlEditor.pdb
